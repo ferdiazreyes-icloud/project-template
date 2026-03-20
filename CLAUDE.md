@@ -36,11 +36,12 @@ Ruleset for this project. NON-NEGOTIABLE.
 
 BEFORE doing anything:
 
-1. Read this `CLAUDE.md`
-2. Read `README.md`
-3. Read `.specify/` files: `00-principles.md`, `01-architecture-vision.md`, and any other ADM artifacts that exist
-4. Read `tasks.md` if it exists
-5. Summarize: "He leído el estado actual del proyecto. [2-3 sentences]. ¿En qué quieres que trabaje?"
+1. `git pull` — sync any remote changes (e.g., work done from another device)
+2. Read this `CLAUDE.md`
+3. Read `README.md`
+4. Read `.specify/` files: `00-principles.md`, `01-architecture-vision.md`, and any other ADM artifacts that exist
+5. Read `tasks.md` if it exists
+6. Summarize: "He leído el estado actual del proyecto. [2-3 sentences]. ¿En qué quieres que trabaje?"
 
 If any files are missing, tell FerDi which ones and ask if he wants them created.
 
